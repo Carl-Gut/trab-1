@@ -9,4 +9,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> y=x/3
 >>> z=x-y
 >>> print (z)
-5.333333333333334
