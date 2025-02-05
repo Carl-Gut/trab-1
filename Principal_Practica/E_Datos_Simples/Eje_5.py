@@ -1,0 +1,7 @@
+print('Programa para nomina Inicial')
+print('Favor escriba el numero de NHT')
+nht=float(input('Introduce tus horas tranbajadas: '))
+print('Favor escriba el numero de VH')
+vh=float(input('Introduce el valor hora: '))
+sueldo=int(nht*vh)
+print('El sueldo total es : ',sueldo)
