@@ -1,7 +1,0 @@
-nombre=str(input('Escriba su nombre completo: '))
-min= nombre.lower()
-may= nombre.upper()
-tit= nombre.title()
-print(min)
-print(may)
-print(tit)
